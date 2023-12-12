@@ -1,0 +1,73 @@
+body { /*배경*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+    margin:0;
+}
+
+.fontcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container{
+    position: relative;
+    top:20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.basefont{ /*기본폰트*/
+    font-size: 1rem;
+    position: relative;
+}
+
+.lather{
+    width: 60px; 
+    height: 60px; 
+    margin: 10px;
+    font-size: 18px;
+    background-color: #ccc;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cannon{
+    width: 60px; 
+    height: 60px; 
+    margin: 10px;
+    font-size: 18px;
+    background-color: #ccc;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.rullet{
+    width: 60px; 
+    height: 60px; 
+    margin: 10px;
+    font-size: 18px;
+    background-color: #ccc;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.lots{
+    width: 60px; 
+    height: 60px; 
+    margin: 10px;
+    font-size: 18px;
+    background-color: #ccc;
+    color: black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
